@@ -1,2 +1,2 @@
-# Tarefa_Robos
-O projeto tem como objetivo integrar o robô NAO em eventos institucionais
+# Trabalho Prático 1: Robôs da PUC
+O projeto teve como objetivo integrar o robô NAO em eventos institucionais.
